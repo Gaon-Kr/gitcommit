@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But track these files
+.gitignore
+README.md
+For_test6.java
